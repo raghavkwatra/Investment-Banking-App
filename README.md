@@ -17,5 +17,3 @@ The app allows users to input investment details and immediately see the calcula
 - **React** (with Hooks)
 - **JavaScript (ES6+)**
 - **CSS Modules / Tailwind (optional based on your implementation)**
-
-## 📁 Project Structure
